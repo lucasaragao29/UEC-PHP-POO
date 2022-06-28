@@ -8,8 +8,8 @@
         <pre>
         <?php
         
-       require_once './Classes/classesLut.php'; 
-       require_once './Classes/luta.php';
+       require_once './classesLut.php'; 
+       require_onde './luta.php';
        $l=array();
        $l[0]=new lutadores("Pretty Boy","França",31,1.75,68.9,11,3,1);
        $l[1]=new lutadores("Putscrip","Brasil",29,1.68,57.8,14,2,3);
